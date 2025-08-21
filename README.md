@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm a passionate developer with a strong foundation in Data Structures and Algorithms (DSA). I now focus on building scalable and dynamic web applications.<br><br>👨‍💻 I specialize in front-end development using React, while also expanding into full-stack development with technologies like Node.js, Express, and MongoDB.<br><br>👯 I’m always open to collaborating on innovative web projects, especially those involving modern front-end frameworks or full-stack solutions that solve real-world problems.<br><br>🌱 Currently, I’m sharpening my backend development skills—building RESTful APIs, handling authentication, and integrating databases into seamless applications.<br><br>🤝 I welcome mentorship and knowledge-sharing opportunities, particularly around advanced backend architecture and deployment best practices.<br><br>💬 Feel free to reach out if you want to talk about JavaScript, React, backend development, or anything related to the web dev ecosystem.
+🔭 I’m a final-year Computer Science student with a strong foundation in Data Structures & Algorithms and solid knowledge of core CS fundamentals.<br><br>
+👨‍💻 Skilled in building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js)<br><br>
+👯 Currently exploring the exciting field of Machine Learning, combining my software engineering background with data-driven solutions.<br><br>
+🌱 Passionate about problem-solving, full-stack development, and continuous learning, with a focus on writing clean, efficient, and maintainable code.<br><br>
+🤝 Open to collaborating on projects involving MERN, backend systems, or ML-based applications.
 
 
 ## 🌐 Socials:
